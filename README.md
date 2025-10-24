@@ -10,3 +10,10 @@ Hi everyone! My name is **Cibele Diniz**, I am a **Computer Science student** an
 Here I will document the first steps I’m learning, to help beginners like me! 🚀
 
 ---
+
+**Português**
+
+---
+
+Olá, pessoal! Me chamo **Cibele Diniz**, sou estudante de **Ciência da Computação** e estou aprendendo a usar o **GitHub**.  
+Aqui vou documentar os primeiros passos que estou aprendendo, para ajudar iniciantes como eu! 🚀
