@@ -1,0 +1,165 @@
+---
+
+# Prática | Practice
+
+## 1 Criar pasta
+
+Criar pasta:
+
+
+Git-GitHub
+
+
+Abrir no VS Code.
+
+Criar arquivo:
+
+
+README.md
+
+
+Escrever algo dentro.
+
+Salvar.
+
+---
+
+## 2 Verificar Git
+
+
+git --version
+
+
+Se aparecer versão, está instalado.
+
+---
+
+## 3 Iniciar repositório
+
+
+git init
+
+
+---
+
+## 4 Adicionar arquivo
+
+
+git add README.md
+
+
+---
+
+## 5 Commit
+
+
+git commit -m "iniciando projeto"
+
+
+---
+
+## 6 Definir main
+
+
+git branch -M main
+
+
+---
+
+## 7 Criar repositório no GitHub
+
+Criar no site.
+
+Copiar link.
+
+Exemplo:
+
+
+https://github.com/user/projeto.git
+
+
+---
+
+## 8 Conectar
+
+
+git remote add origin LINK
+
+
+Exemplo:
+
+
+git remote add origin https://github.com/user/projeto.git
+
+
+---
+
+## 9 Enviar
+
+
+git push origin main
+
+
+Agora aparece no GitHub.
+
+---
+
+# Criando branch | Creating branch
+
+
+git checkout -b comandos
+
+
+Criar arquivo.
+
+
+git add .
+git commit -m "nova branch"
+git push origin comandos
+
+
+---
+
+# Alterar no GitHub e puxar
+
+Editar no site.
+
+Depois:
+
+
+git pull origin comandos
+
+
+---
+
+# Merge
+
+Voltar para main
+
+
+git checkout main
+
+
+Juntar
+
+
+git merge comandos
+
+
+Enviar
+
+
+git push origin main
+
+
+---
+
+# Fork e Pull Request
+
+Fork = copiar projeto
+
+Pull request = pedir para juntar código
+
+Usado em projetos colaborativos.
+
+---
